@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373840</color>
+    <color name="colorPrimaryDark">#181818</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--<color name="colorPost">#A6A15E</color>-->
+    <color name="colorPost">#CD9C25</color>
+    <color name="colorSvetitelj">#CCD4D4</color>
+    <color name="colorNoviDatum">#CCD4D4</color>
+    <color name="colorZitije">#F6F7EB</color>
+    <color name="colorStariDatum">#A6A15E</color>
+    <color name="colorBtnShape">#8c8c8c</color>
+</resources>

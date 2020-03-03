@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Православац</string>
+    <string name="obican_post">Пост</string>>
+    <string name="veliki_post">Велики пост</string>
+    <string name="gospojinski_post">Госпојински пост</string>
+    <string name="petrovski_post">Петровски пост</string>
+    <string name="bozicni_post">Божићни пост</string>
+    <string name="novi_datum">22.012.2020. god.</string>
+    <string name="novidatum">Нови датум - Грегоријански календар</string>
+    <string name="stari_datum">12.04.2019. god.</string>
+    <string name="staridatum">Стари датум - Јулијански календар</string>
+    <string name="ikona_svetitelja">Ikona Svetitelja</string>
+    <string name="svetitelj">Sveti janko i marko, takozvani naj veci od svih svetih svetitelja na balkanu a i sire a i uze</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="danas_ad_unit_id">ca-app-pub-7920431183682527/3639868432</string>
+    <string name="msg_subscribed">Aplikacija Pravoslavac sada moze primati poruke</string>
+    <string name="msg_subscribe_failed">Aplikacija Pravoslavac sada ne moze primati poruke</string>
+    ></resources>
